@@ -16,7 +16,7 @@ The main goal of the project is to demonstrate skills in Natural Language Proces
 3.  **Tone analysis using TextBlob:** Each tweet is assigned a tone score, based on which a label ('positive', 'negative', 'neutral') is determined.
 4.  **Preparing data for machine learning:**
     * Converting text labels into numerical labels.
-    * * Text vectorization using TF-IDF.
+    * Text vectorization using TF-IDF.
 5.  **Model training:**
     * Splitting the data into training and test samples (this code uses a specific approach, see Note).
     * Training the `RandomForestClassifier'.
